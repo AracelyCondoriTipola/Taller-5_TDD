@@ -33,9 +33,7 @@ public class AscensorTest {
 
     @Test
     public void PersonaEnPiso() throws Exception{
-        ascensor.direccion(1);//persona1
-        exception.expect(Exception.class);
-        ascensor.direccion(1);//persona2
+       
 
     }
 
